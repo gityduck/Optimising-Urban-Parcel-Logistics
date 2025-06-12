@@ -1,0 +1,56 @@
+customerID,name,address,priorityLevel,deliveryStatus,From,To
+C045,Nate,1056 Chestnut Boulevard,4,Delivered,C,D
+C046,Olga,1067 Willow Court,5,In Transit,C,E
+C047,Paul,1078 Tulip Circle,3,Delivered,D,F
+C048,Joey,123 Maple Street,1,Delivered,A,D
+C049,Max,789 Oak Ave,4,In Transit,A,E
+C011,Fifi,324 Oak Ave,2,In Transit,A,C
+C012,George,345 Bird Road,1,Delivered,A,G
+C013,Richard,777 Pine Road,2,Delivered,A,B
+C019,Nina,333 Cedar Lane,2,In Transit,B,F
+C014,Karen,888 Tulip Walk,3,In Transit,B,G
+C015,Larry,999 Lily Street,4,Delivered,C,F
+C016,Faith,567 Tulip Walk,5,Delivered,B,C
+C017,Bella,555 Lily Street,3,Delayed,B,D
+C018,Michael,444 Maple Road,1,Delivered,B,E
+C010,Jack,112 Willow Street,5,Delayed,D,F
+C050,Emma,101 Rose Lane,2,Delivered,C,F
+C051,Liam,202 Birch Street,1,In Transit,A,B
+C052,Olivia,303 Palm Drive,3,Delayed,A,C
+C053,Noah,404 Maple Avenue,4,Delivered,A,F
+C020,Owen,222 Pine Blvd,4,Delivered,A,G
+C021,Penny,111 Oak Drive,5,Delayed,A,E
+C022,Quinn,123 Palm Street,3,In Transit,A,D
+C023,Ryan,234 Birch Walk,2,Delivered,B,C
+C024,Sara,345 Chestnut Road,1,Delivered,B,D
+C025,Tom,456 Spruce Avenue,4,Delayed,B,E
+C026,Uma,567 Willow Lane,5,In Transit,B,F
+C027,Victor,678 Rose Street,3,Delivered,B,G
+C028,Wendy,789 Tulip Road,2,Delayed,E,F
+C029,Xander,890 Lily Boulevard,1,Delivered,E,G
+C054,Ava,505 Cedar Road,2,Delivered,F,G
+C055,Elijah,606 Pine Circle,5,In Transit,C,D
+C030,Yara,901 Cedar Path,4,In Transit,C,E
+C031,Zack,912 Maple Trail,5,Delivered,C,F
+C032,Amber,923 Birch Street,3,Delayed,C,G
+C033,Brian,934 Pine Drive,2,In Transit,B,C
+C034,Cindy,945 Oak Lane,1,Delivered,B,D
+C001,Alice,101 Rose Lane,3,Delivered,B,E
+C002,Bob,202 Birch Street,2,In Transit,B,F
+C003,Clara,303 Palm Drive,4,Delayed,B,G
+C004,David,404 Maple Avenue,1,Delivered,D,E
+C005,Eva,505 Cedar Road,5,In Transit,D,F
+C006,Frank,606 Pine Circle,3,Delivered,D,G
+C007,Grace,707 Oak Boulevard,2,Delayed,F,G
+C008,Henry,808 Spruce Way,4,Delivered,A,B
+C009,Ivy,909 Chestnut Drive,1,In Transit,A,C
+C035,Derek,956 Spruce Road,4,Delivered,A,D
+C036,Elsa,967 Chestnut Lane,5,Delayed,A,E
+C037,Fred,978 Willow Street,3,In Transit,A,F
+C038,Gina,989 Tulip Trail,2,Delivered,A,G
+C039,Harold,990 Lily Court,1,Delayed,C,D
+C040,Irene,1001 Palm Avenue,4,In Transit,C,F
+C041,Jason,1012 Cedar Drive,5,Delivered,C,E
+C042,Kylie,1023 Pine Path,3,Delivered,D,E
+C043,Luke,1034 Oak Street,2,In Transit,D,G
+C044,Mona,1045 Spruce Lane,1,Delayed,D,G
